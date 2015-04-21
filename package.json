@@ -1,0 +1,25 @@
+{
+  "name": "Project_1",
+  "version": "0.1.3",
+  "description": "My first Web app deployed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x",
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isugars/Project_1"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
