@@ -21,5 +21,11 @@
     "heroku",
     "express"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isugars/Project_1/issues"
+  },
+  "homepage": "https://github.com/isugars/Project_1",
+  "devDependencies": {},
+  "author": "isugars"
 }
