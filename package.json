@@ -1,0 +1,28 @@
+{
+  "name": "Project_1",
+  "version": "1.0.0",
+  "description": "My first deployed web app",
+  "main": "loc.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "node": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isugars/Project_1.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "isugars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isugars/Project_1/issues"
+  },
+  "homepage": "https://github.com/isugars/Project_1"
+}
